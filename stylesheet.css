@@ -20,6 +20,7 @@ a {
   font-style: normal;
   font-size: 15px;
   line-height: 1.5;
+  color: black;
 }
 
 strong {
@@ -47,7 +48,7 @@ heading {
 
 name {
   font-family: "Roboto", sans-serif;
-  font-size: 34px;
+  font-size: 28px;
 }
 
 .one {
