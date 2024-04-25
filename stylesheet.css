@@ -78,7 +78,7 @@ span.highlight {
 .header {
   overflow: hidden;
   background-color: white;
-  padding: 10px 10px;
+  padding: 20px 20px;
 }
 
 /* Style the header links */
@@ -106,6 +106,10 @@ span.highlight {
 }
 
 /* Float the link section to the right */
+.header-left {
+  float: left;
+}
+
 .header-right {
   float: right;
 }
